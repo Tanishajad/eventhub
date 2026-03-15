@@ -1,0 +1,8 @@
+<footer>
+
+<p>© 2026 EventHub</p>
+
+</footer>
+
+</body>
+</html>
